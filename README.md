@@ -8,3 +8,5 @@
 git-devisha/git-devisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![git-devisha's GitHub | Languages Over Time](https://stats.quira.sh/git-devisha/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=git-devisha)
+
