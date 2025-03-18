@@ -31,7 +31,18 @@
           
 </p>
 
-![Snake animation](https://github.com/git-devisha/git-devisha/blob/output/github-contribution-grid-snake.svg)
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.git-devisha.vercel.app/api?username=git-devisha&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=git-devisha&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
           
 <!---
 git-devisha/git-devisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
