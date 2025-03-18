@@ -1,7 +1,10 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Devisha Bhargava</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Devisha Bhargava</h1> 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
 - 🌱 Passionate about Data Science and ML
 - 💞️ I’m looking to collaborate on Projects in Python, Frontend Development, C, C++
 - 📫 How to reach me : mail me at devishab31@gmail.com
+- Previous intern at IIT Delhi, NIIT Pvt. Ltd. and CSIR-CSIO
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
