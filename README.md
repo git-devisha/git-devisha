@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devisha
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Devisha Bhargava</h1>
 - 🌱 Passionate about Data Science and ML
 - 💞️ I’m looking to collaborate on Projects in Python, Frontend Development, C, C++
 - 📫 How to reach me : mail me at devishab31@gmail.com
@@ -49,6 +49,18 @@
    <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=git-devisha&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=git-devisha&theme=highcontrast" alt="git-devisha" /></p>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-devisha&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="git-devisha" /></p>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" />
+**Leetcode Info:**
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/leetcode_devisha?theme=dark&font=Nunito&ext=heatmap" />  
+
 
           
 <!---
