@@ -39,7 +39,10 @@
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-devisha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="200px"  width="500px"/>
 </div>
-
+<div>
+<h2>Leetcode Info: </h2>   
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/leetcode_devisha?theme=dark&font=Nunito&ext=heatmap" /> 
+</div>
 
 **Expand to view**
 <details>
@@ -54,10 +57,8 @@
 </details>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-devisha&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="git-devisha" /></p>
 <br>
-<div>
-  <h2>Leetcode Info: </h2>   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/leetcode_devisha?theme=dark&font=Nunito&ext=heatmap" /> 
-</div>
+
+
  
 
 
