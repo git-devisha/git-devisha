@@ -30,6 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="50" height="50"/>
           
 </p>
+
+![Snake animation](https://github.com/git-devisha/git-devisha/blob/output/github-contribution-grid-snake.svg)
           
 <!---
 git-devisha/git-devisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
