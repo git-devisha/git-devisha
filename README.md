@@ -49,18 +49,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-devisha&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.git-devisha.vercel.app/api?username=git-devisha&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=git-devisha&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-devisha&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="git-devisha" /></p>
 <br>
 
 
