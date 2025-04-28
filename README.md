@@ -44,9 +44,9 @@
 </div>
 <div style="display: flex;">
     <div style="margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-devisha&layout=compact&theme=highcontrast" alt="Languages" style="height: 100px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-devisha&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
         <img src="https://github-readme-stats.vercel.app/api?username=git-devisha&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-devisha&theme=highcontrast" alt="GitHub Streak Stats" style="height: 150px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-devisha&theme=highcontrast" alt="GitHub Streak Stats" style="height: 197px;">
     </div>
 </div>
 <br>
