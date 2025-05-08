@@ -39,7 +39,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-devisha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="200px"  width="500px"/>
 </div>
 <div>
-<h2>Leetcode Info: </h2>   
+<h2>Leetcode Info: </h2> 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=leetcode_devisha" alt="LeetCode Badges" />
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/leetcode_devisha?theme=dark&font=Nunito&ext=heatmap" /> 
 </div>
 <div style="display: flex;">
